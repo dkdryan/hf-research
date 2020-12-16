@@ -1,6 +1,7 @@
 # OpenSAFELY Heart Failure Study 
 
 David K Ryan 
+
 Academic Foundation Doctor, St George's Hospital, London
 
 # Aim 
