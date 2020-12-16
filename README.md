@@ -1,23 +1,11 @@
-# OpenSAFELY demo materials
+# OpenSAFELY Heart Failure Study 
 
-This repo contains the code for an OpenSAFELY walkthrough in R.
+David K Ryan 
+Academic Foundation Doctor, St George's Hospital, London
 
-To see the fully-rendered document, visit https://nbviewer.jupyter.org/github/opensafely/os-demo-research/blob/master/rmarkdown/Rdemo.html
+# Aim 
 
-To see a github-flavoured rendering with some features disabled, visit [`/rmarkdown/Rdemo.md`](/rmarkdown/Rdemo.md)
+Descriptive study of medications that are prescribed for heart failure 
+Analysis of how heart failure medication changes with decline in kidney function 
 
-# About the OpenSAFELY framework
 
-The OpenSAFELY framework is a new secure analytics platform for
-electronic health records research in the NHS.
-
-Instead of requesting access for slices of patient data and
-transporting them elsewhere for analysis, the framework supports
-developing analytics against dummy data, and then running against the
-real data *within the same infrastructure that the data is stored*.
-Read more at [OpenSAFELY.org](https://opensafely.org).
-
-The framework is under fast, active development to support rapid
-analytics relating to COVID19; we're currently seeking funding to make
-it easier for outside collaborators to work with our system.  You can
-read our current roadmap [here](ROADMAP.md).
